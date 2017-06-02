@@ -1,0 +1,15 @@
+@import url(bootstrap/css/bootstrap.min.css);
+@import url(font-awesome/css/font-awesome.min.css);
+
+:focus {
+    outline-style: none;
+}
+
+body {
+    padding-top: 5%;
+}
+
+#results {
+    padding-left: 1em;
+    display: none;
+}

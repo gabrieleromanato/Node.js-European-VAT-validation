@@ -1,0 +1,15 @@
+{
+  "name": "EUVATValidation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EU VAT validation",
+  "author": "Gabriele Romanato <gabriele@gabrieleromanato.com>",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "ejs": "^2.3.4",
+    "express": "^4.13.1",
+    "serve-favicon": "^2.4.3",
+    "soap": "^0.19.1"
+  },
+  "license": "MIT"
+}
